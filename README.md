@@ -27,4 +27,4 @@ Tools used:
 - Adobe Photoshop
 - JQuery
 
-<a href="https://kassemomran.github.io/ProjectWebsite/">Visit Website!</a>
+<a href="https://kassemomran.github.io/LUFacultyWebsite/">Visit Website!</a>
